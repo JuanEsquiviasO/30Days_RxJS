@@ -1,6 +1,6 @@
 # Proyect 30DaysWithRxJS 
 
-## The PHP Framework For Web Artisans
+## The ReactiveX library for JavaScript
 
 * [ReactiveX](http://reactivex.io/)
 * [RxJS](http://reactivex.io/rxjs/)
